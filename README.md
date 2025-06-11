@@ -1,5 +1,5 @@
 # DDA-CMA
-Code under organization, stay tuned for updates
+Our paper is currently under review at The Visual Computer. The complete source code will be released upon acceptance. We are actively organizing and finalizing the implementation details to ensure reproducibility.
 # Installation
 pip install -r requirements.txt
 # Train
